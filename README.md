@@ -24,4 +24,4 @@ Currently deepening my skills in cloud infrastructure (AWS), enterprise API inte
 
 ### Get in touch
 
-[LinkedIn](https://linkedin.com/in/simonedesanctis) · [Email](mailto:desanctis.simone999@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/simone-desanctis/) · [Email](mailto:desanctis.simone999@gmail.com)
