@@ -20,7 +20,7 @@ I work at the intersection of business operations and software engineering — I
 
 ### What I'm exploring
 
-Currently deepening my skills in cloud infrastructure (AWS), enterprise API integrations, and technical communication. Interested in Solutions Engineering roles where I can apply integration expertise and product thinking to solve complex technical challenges at scale.
+Currently deepening my skills in cloud infrastructure (AWS), enterprise API integrations, and technical communication. 
 
 ### Get in touch
 
